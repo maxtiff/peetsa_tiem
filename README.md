@@ -2,15 +2,15 @@ This recipe from Peter Reinhert uses American bread flour instead of Italian -00
 
 ### Ingredients
 
---	5 1/4 cups (24 ounces by weight) unbleached bread flour
+*	5 1/4 cups (24 ounces by weight) unbleached bread flour
 
---	2 teaspoons (0.5 oz.) kosher salt
+*	2 teaspoons (0.5 oz.) kosher salt
 
---	1 1/4 teaspoons (0.14 oz.) instant yeast (or 1 1/2 teaspoons active dry yeast dissolved in the water)
+*	1 1/4 teaspoons (0.14 oz.) instant yeast (or 1 1/2 teaspoons active dry yeast dissolved in the water)
 
---	2 tablespoons (1 oz.) olive oil
+*	2 tablespoons (1 oz.) olive oil
 
---	2 1/4 cups (18 oz.) room temperature water (less if using honey or oil)
+*	2 1/4 cups (18 oz.) room temperature water (less if using honey or oil)
 
 
 ### Directions for making dough
@@ -27,12 +27,12 @@ This recipe from Peter Reinhert uses American bread flour instead of Italian -00
 
 6)	After the 5 minutes have elapsed, stretch and fold the dough into a tight ball. Let the dough ball rest for 5 minutes. 
 
-	--	Repeat step 6 two more times, at 5 minute intervals. 
-	--	The dough ball should have been worked three times with a resting period inbetween each working, with two resting periods 			combined at 10 minutes total.
+	  * Repeat step 6 two more times, at 5 minute intervals. 
+	  * The dough ball should have been worked three times with a resting period inbetween each working, with two resting periods combined at 10 minutes total.
 
 7) Place the dough in a lightly oiled bowl, cover with plastic wrap, and immediately place in the refrigerator. 
 
-	--The dough can be used anywhere from 6 hours to 3 days after it goes in the fridge. The dough is ideal after resting for 24 hours, therby allowing the yeast enough time to carry out the fermentation process for deeper flavors.
+	  * The dough can be used anywhere from 6 hours to 3 days after it goes in the fridge. The dough is ideal after resting for 24 hours, therby allowing the yeast enough time to carry out the fermentation process for deeper flavors.
 
 
 ### Directions for prepping dough
@@ -45,8 +45,8 @@ When ready to make the pizzas, pull the dough from the refrigerator two hours pr
 
 3)	Mist the dough balls with spray oil and cover loosely with plastic wrap or place the pan inside a large plastic bag. 
 
-	--	Give the dough at least 90 minutes before making the pizzas. 
-	--	If you don’t plan to use them all, place the extra dough balls inside of an oiled freezer bag and keep in the refrigerator 			(<= 3 days) or in the freezer (<= 3 months).
+	  * Give the dough at least 90 minutes before making the pizzas. 
+	  * If you don’t plan to use them all, place the extra dough balls inside of an oiled freezer bag and keep in the refrigerator (<= 3 days) or in the freezer (<= 3 months).
 
 ###	Directions for baking dough or Pizza Party
 
