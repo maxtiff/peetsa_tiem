@@ -27,12 +27,12 @@ This recipe from Peter Reinhert uses American bread flour instead of Italian -00
 
 6)	After the 5 minutes have elapsed, stretch and fold the dough into a tight ball. Let the dough ball rest for 5 minutes. 
 
-	  * Repeat step 6 two more times, at 5 minute intervals. 
-	  * The dough ball should have been worked three times with a resting period inbetween each working, with two resting periods combined at 10 minutes total.
+	  > Repeat step 6 two more times, at 5 minute intervals. 
+	  > The dough ball should have been worked three times with a resting period inbetween each working, with two resting periods combined at 10 minutes total.
 
 7) Place the dough in a lightly oiled bowl, cover with plastic wrap, and immediately place in the refrigerator. 
 
-	  * The dough can be used anywhere from 6 hours to 3 days after it goes in the fridge. The dough is ideal after resting for 24 hours, therby allowing the yeast enough time to carry out the fermentation process for deeper flavors.
+	  > The dough can be used anywhere from 6 hours to 3 days after it goes in the fridge. The dough is ideal after resting for 24 hours, therby allowing the yeast enough time to carry out the fermentation process for deeper flavors.
 
 
 ### Directions for prepping dough
