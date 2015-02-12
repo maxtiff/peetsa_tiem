@@ -1,6 +1,6 @@
 This recipe from Peter Reinhert uses American bread flour instead of Italian -00- flour. You can use Italian flour, such as Caputo, if you want to make an authentic Napoletana dough. Just cut back on the water by about 2 ounces; Italian flour does not absorb as much as the higher protein American flour. Always use unbleached flour for better flavor. If you want to make it more like a coal-oven-style dough, add 1 tablespoon of sugar or honey. Regarding moisture content, the key is to make it wet enough so that the cornicione (the edge or crown) really puffs in the oven.
 
-*** Ingredients ***
+### Ingredients
 
 --	5 1/4 cups (24 ounces by weight) unbleached bread flour
 
@@ -13,7 +13,7 @@ This recipe from Peter Reinhert uses American bread flour instead of Italian -00
 --	2 1/4 cups (18 oz.) room temperature water (less if using honey or oil)
 
 
-*** Directions for making dough ***
+### Directions for making dough
 
 1)	Using the mixer's paddle attachment, combine all the dry ingredients in the bowl and mix until evenly distributed.
 
@@ -35,7 +35,7 @@ This recipe from Peter Reinhert uses American bread flour instead of Italian -00
 	--The dough can be used anywhere from 6 hours to 3 days after it goes in the fridge. The dough is ideal after resting for 24 hours, therby allowing the yeast enough time to carry out the fermentation process for deeper flavors.
 
 
-*** Directions for prepping dough ***
+### Directions for prepping dough
 
 When ready to make the pizzas, pull the dough from the refrigerator two hours prior to baking. 
 
@@ -48,5 +48,5 @@ When ready to make the pizzas, pull the dough from the refrigerator two hours pr
 	--	Give the dough at least 90 minutes before making the pizzas. 
 	--	If you don’t plan to use them all, place the extra dough balls inside of an oiled freezer bag and keep in the refrigerator 			(<= 3 days) or in the freezer (<= 3 months).
 
-*** Directions for baking dough or Pizza Party ***
+###	Directions for baking dough or Pizza Party
 
