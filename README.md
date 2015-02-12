@@ -1,16 +1,32 @@
+## New American Standard Peetza
+
 This recipe from Peter Reinhert uses American bread flour instead of Italian -00- flour. You can use Italian flour, such as Caputo, if you want to make an authentic Napoletana dough. Just cut back on the water by about 2 ounces; Italian flour does not absorb as much as the higher protein American flour. Always use unbleached flour for better flavor. If you want to make it more like a coal-oven-style dough, add 1 tablespoon of sugar or honey. Regarding moisture content, the key is to make it wet enough so that the cornicione (the edge or crown) really puffs in the oven.
+
+### Tools
+
+* KitchenAid mixer and paddle attachment
+
+* Kitchen scale
+
+* Set of small measuring bowls
+
+* Spatula
+
+* Dough scrapper or knife
+
+* Brush
 
 ### Ingredients
 
-*	5 1/4 cups (24 ounces by weight) unbleached bread flour
+*	5 1/4 cups (24oz / 680g by weight) unbleached bread flour
 
-*	2 teaspoons (0.5 oz.) kosher salt
+*	2 teaspoons (0.5oz / 14g) kosher salt
 
-*	1 1/4 teaspoons (0.14 oz.) instant yeast (or 1 1/2 teaspoons active dry yeast dissolved in the water)
+*	1 1/4 teaspoons (0.14oz / 4g) instant yeast (or 1 1/2 teaspoons active dry yeast dissolved in the water)
 
-*	2 tablespoons (1 oz.) olive oil
+*	2 tablespoons (1oz / 28g) olive oil
 
-*	2 1/4 cups (18 oz.) room temperature water (less if using honey or oil)
+*	2 1/4 cups (18oz / 510g) room temperature water (less if using honey or oil)
 
 
 ### Directions for making dough
